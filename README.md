@@ -1,5 +1,3 @@
 # Curso Digital: Git
 
-# Santander Coders através da Ada Tech
-
-# Salvando modificações no Git
+## Mudando o titulo do git
