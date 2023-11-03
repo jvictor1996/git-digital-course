@@ -4,3 +4,4 @@
 
 *uso do comando restore
 *usando o comando push
+*comando git pull
