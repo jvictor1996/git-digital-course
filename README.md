@@ -1,5 +1,5 @@
 # Curso Digital: Git
 
-## Gravando mudanças no repositório
+# Santander Coders através da Ada Tech
 
 # Salvando modificações no Git
